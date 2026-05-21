@@ -47,4 +47,3 @@ It installs Python dependencies and runs the test suite with `pytest`.
 ## Tags / Releases
 
 - `v1.0.0`: initial base application
-
